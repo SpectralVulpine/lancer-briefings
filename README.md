@@ -1,7 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/55d0e9f5-8e0d-422e-a3d0-38a79ecf2413/deploy-status)](https://app.netlify.com/sites/lancer-briefings/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e85156be-cfeb-4e58-87f0-55ed13844198/deploy-status)](https://app.netlify.com/sites/spectralvulpine-lancer/deploys)
 # Lancer Briefings
-
-**[Live Demo](https://lancer.kuenaimaku.com/)** (No Room for a Wallflower Spoilers)
 
 Go over mission briefings within the LANCER Universe in style by showing your players a fully animated mission briefing screen, with a Mirrorsmoke Mercenary Company theme.
 
@@ -9,6 +7,7 @@ Go over mission briefings within the LANCER Universe in style by showing your pl
 
 * Alkyama#2737 (discord) for the original [Figma Template](figma.com/community/file/983540597915480981) used as reference.
 * [VantaJS](https://www.vantajs.com/) for the slick 3d openGL backgrounds.
+* @Kuenaimaku for the original project this was forked from and the majority of the code here.
 
 ## Requirements
 - Node (v14+)
