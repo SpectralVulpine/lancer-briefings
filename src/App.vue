@@ -95,16 +95,27 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Plowshare",
           "status": "start"
-        },
-        {
-          "slug": "002",
-          "name": "Vigilant Gaze",
-          "status": "partial-success"
         },
       ],
       "pilots": [
+        {
+          "callsign": "Jade",
+          "alias": "Laurelin Caspere",
+          "code": "Caspere.Laurelin:310fb678-1ce4-48b6-a7bc-425638047762//NDL-C-FOURTH-ORBIT",
+          "corpro": "HORUS",
+          "frame": "Goblin",
+          "mech": "Birthright"
+        },
+        {
+          "callsign": "Midas",
+          "alias": "Axel Donovan",
+          "code": "Donovan.Axel:8afd097b-cabb-44af-9e8f-607b023b9994//NDL-C-DIRE-WATCHMAKER",
+          "corpro": "HA",
+          "frame": "Iskander",
+          "mech": "For Demonstration Purposes Only"
+        },
         {
           "callsign": "Wither",
           "alias": "Eli Jesko",
@@ -118,12 +129,12 @@ export default {
         "planet": "Ras Shamra",
         "year": "5024u",
         "system": "Ptah's Star",
-        "gate": "Rocky-Mountain-Capitol",
-        "ring": "Rocky-Mountain-Line",
+        "gate": "RM-Capitol",
+        "ring": "Rocky-Mountain",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Urgent Mission",
+        "subheaderSubtitle": "Zulu-India-Oscar-November",
       },
       "options":{
         "eventsMarkdownPerMission": true
