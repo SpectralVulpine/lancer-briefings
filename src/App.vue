@@ -134,7 +134,7 @@ export default {
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Urgent Mission",
-        "subheaderSubtitle": "Zulu-India-Oscar-November",
+        "subheaderSubtitle": "Team MAHK",
       },
       "options":{
         "eventsMarkdownPerMission": true
