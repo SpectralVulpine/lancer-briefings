@@ -8,3 +8,12 @@ Now, Wither and Morrigan work tirelessly to unravel the mechanisms behind NHP ca
 - Lost his eye defending his home base "Yosemite" from WAR
 - Has a bitter rival named Vulture, a "reclamation specialist" in MSMC who's convinced he's hiding something
 - Died attempting to stop a pirate corvette from crashing into a planet. (He got better)
+
+## Bond of the Broker
+### Major Bonds:
+- I addressed challenges with manipulation, influence, or elegance
+- I expressed my heritage, background, or beliefs through my actions
+
+### Minor Bonds:
+- I proved that I was the most qualified to handle a situation
+- Despite my best efforts, we went wildly off the plan

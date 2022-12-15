@@ -7,3 +7,12 @@ In his free time, Axel took up the name **Scrapper** and battled it out in the G
 - Owns a ship of his own, _Independent Variable_
 - Will only flavor coffee with blueberry syrup
 - Very proud of his custom "spinal tap" implant and genetically-enhanced iridescent eyes
+
+## Bond of the Fool
+### Major Bonds:
+- I addressed challenges with perseverance, learning, or sheer dumb luck
+- I expressed my heritage, background, or beliefs through my actions
+
+### Minor Bonds:
+- Someone else helped me out of a bad situation
+- Someone taught me something useful, comforting, or painful

@@ -10,3 +10,12 @@ With the destruction of Project UPLIFT's four clones, Basir and Laurelin find th
 - Had a maid homunculus designed in her likeness without her knowledge or consent
 - Chief servant of Seth, Lord of the Duat and Master of --//
 - Dedicated frog enthusiast, once owned a Debephusian vampire frog named Jerry
+
+## Bond of the Harlequin
+### Major Bonds:
+- I addressed challenges with cunning, subterfuge, or deceit
+- I expressed my heritage, background, or beliefs through my actions
+
+### Minor Bonds:
+- I pretended to be someone else for a time
+- I charmed my way out of a charged situation

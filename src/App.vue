@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Plowshare",
+          "name": "Outrider",
           "status": "start"
         },
       ],
