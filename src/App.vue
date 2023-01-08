@@ -96,8 +96,13 @@ export default {
         {
           "slug": "001",
           "name": "Outrider",
-          "status": "start"
+          "status": "success"
         },
+        {
+          "slug": "002",
+          "name": "West Wind",
+          "status": "start"
+        }
       ],
       "pilots": [
         {
