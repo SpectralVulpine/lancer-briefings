@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
@@ -101,6 +101,11 @@ export default {
         {
           "slug": "002",
           "name": "Eagle of RA",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "Charybdis",
           "status": "start"
         }
       ],
