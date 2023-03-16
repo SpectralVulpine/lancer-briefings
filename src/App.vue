@@ -101,7 +101,7 @@ export default {
         {
           "slug": "002",
           "name": "Eagle of RA",
-          "status": "success"
+          "status": "partial-success"
         },
         {
           "slug": "003",
